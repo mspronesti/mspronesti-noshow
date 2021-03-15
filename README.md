@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Favourite Languages and Tools:
+## Favourite Languages and Tools:
 <img height="35" width="35" align="left" alt="Linux" width="26px" src="icons/linux.svg" />
 
 <img height="35" width="35" align="left" alt="cplusplus" width="26px" src="icons/cpp.svg" />
