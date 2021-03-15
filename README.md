@@ -52,19 +52,25 @@ Here are some ideas to get you started:
 
 <img height="35" width="35" align="left" alt="Docker" width="26px" src="icons/docker.svg" />
 
-<img height="35" width="35" align="left" alt="GitHub" width="26px" src="icons/github.svg" />
-
 <img height="35" width="35" align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img height="35" width="35" align="left" alt="GitHub" width="26px" src="icons/android.svg" />
+<img height="35" width="35" align="left" alt="Android OS" width="26px" src="icons/android.svg" />
 
-<img height="35" width="35" align="left" alt="GitHub" width="26px" src="icons/html5.svg" />
+<img height="35" width="35" align="left" alt="HTML" width="26px" src="icons/html5.svg" />
 
-<img height="35" width="35" align="left" alt="GitHub" width="26px" src="icons/css3.svg" />
+<img height="35" width="35" align="left" alt="CSS" width="26px" src="icons/css3.svg" />
 
-<img height="35" width="35" align="left" alt="GitHub" width="26px" src="icons/js.svg" />
+<img height="35" width="35" align="left" alt="JavaScript" width="26px" src="icons/js.svg" />
 
 <br />
+
+
+## Some of my stats:
+
+[![PronElle's GitHub stats](https://github-readme-stats-alpha-rust.vercel.app/api?username=PronElle&show_icons=true&hide_border=true&count_private=true&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1016)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PronElle&layout=compact&langs_count=10&show_icons=true&hide_border=true&count_private=true&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1016)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [Linkedin]: https://www.linkedin.com/in/massimilianopronesti/
