@@ -64,6 +64,8 @@ Here are some ideas to get you started:
 
 <br />
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
 
 ## Some of my stats:
 
