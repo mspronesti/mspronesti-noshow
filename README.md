@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Massimiliano (but people call me Elle) 👋</h1>
 <h3 align="center">A passionate Computer Engineering student from Italy, currently in France </h3>
 
+- 🌱 I’m currently learning AI and IoT developement
+- 👯 I’m looking to collaborate on any stimulating open source project
+- 💬 Ask me about System programming, Linux, Embedded Software
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/massimilianopronesti/?originalSubdomain=it)
 
 <!--
 **PronElle/PronElle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
