@@ -5,7 +5,7 @@
 
 - 🎓 I'm currently studying Computer Engineering at Polytechnic University of Turin :it:
 - ✈ I'm currently studying IoT Engineering at Institut EURECOM as part of a double degree program :fr:
--   I'm currently learning AI and Data Analytics for IoT
+- 💻 I'm currently learning AI and Data Analytics for IoT
 - 👯 I’m looking to collaborate on any stimulating open source project
 - 💬 Ask me about System programming, Linux, Embedded Software
 
