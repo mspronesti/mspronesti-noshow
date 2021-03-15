@@ -56,10 +56,13 @@ Here are some ideas to get you started:
 
 <img height="35" width="35" align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-[<img height="35" width="32" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/android.svg" alt="Android" />](# "Android OS") &nbsp;
-[<img height="35" width="35" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/html5.svg" alt="HTML5" />](# "HTML5") &nbsp;
-[<img height="35" width="35" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/css3.svg" alt="CSS 3" />](# "CSS3") &nbsp;
+<img height="35" width="35" align="left" alt="GitHub" width="26px" src="icons/android.svg" />
 
+<img height="35" width="35" align="left" alt="GitHub" width="26px" src="icons/html5.svg" />
+
+<img height="35" width="35" align="left" alt="GitHub" width="26px" src="icons/css3.svg" />
+
+<img height="35" width="35" align="left" alt="GitHub" width="26px" src="icons/js.svg" />
 
 <br />
 
