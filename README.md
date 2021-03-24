@@ -1,13 +1,14 @@
 <h2 align="center"><img src="https://komarev.com/ghpvc/?username=PronElle&style=flat-square" alt="PronElle" /></h2>
 
 <h1 align="center">Hi, I'm Massimiliano (but people call me Elle) 👋</h1>
-<h3 align="center">A passionate Computer Engineering student from Italy, currently in France </h3>
+<h3 align="center">A passionate Computer Science Engineering student from Italy, currently in France </h3>
 
 - 🎓 I'm currently studying Computer Engineering at Polytechnic University of Turin :it:
 - ✈ I'm currently studying IoT Engineering at Institut EURECOM as part of a double degree program :fr:
-- 💻 I'm currently learning AI and Data Analytics for IoT
+- 💻  I'm mainly interested in System Programming, IoT, Embedded Software and Machine Learning 
+- 🌱 I'm currently learning Machine Learning
 - 👯 I’m looking to collaborate on any stimulating open source project
-- 💬 Ask me about System programming, Linux, Embedded Software
+- 💬 Ask me about anything, I'll gladly do my best to help
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
