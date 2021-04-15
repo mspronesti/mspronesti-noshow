@@ -3,10 +3,10 @@
 <h1 align="center">Hi, I'm Massimiliano (but people call me Elle) 👋</h1>
 <h3 align="center">A passionate Computer Science Engineering student from Italy, currently in France </h3>
 
-- 🎓 I'm currently studying Computer Engineering at Polytechnic University of Turin :it:
-- ✈ I'm currently studying IoT Engineering at Institut EURECOM as part of a double degree program :fr:
-- 💻  I'm mainly interested in System Programming, IoT, Embedded Software and Machine Learning 
-- 🌱 I'm currently learning Machine Learning
+- 🎓 I'm currently studying Computer Science Engineering at Polytechnic University of Turin :it:
+- ✈ I'm currently studying Data Science and Engineering at Institut EURECOM as part of a double degree program :fr:
+- 💻  I'm mainly interested in IoT, Data Science, Machine Learning and Software Engineering in general
+- 🌱 I'm currently learning Data Science
 - 👯 I’m looking to collaborate on any stimulating open source project
 - 💬 Ask me about anything, I'll gladly do my best to help
 
@@ -47,15 +47,11 @@ Here are some ideas to get you started:
 
 <img height="35" width="35" align="left" alt="bash" width="26px" src="icons/bash.svg" />
 
-<img height="35" width="35" align="left" alt="kotlin" width="26px" src="icons/kotlin.svg" />
-
 <img height="35" width="35" align="left" alt="Git" width="26px" src="icons/git.svg" />
 
 <img height="35" width="35" align="left" alt="Docker" width="26px" src="icons/docker.svg" />
 
 <img height="35" width="35" align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img height="35" width="35" align="left" alt="Android OS" width="26px" src="icons/android.svg" />
 
 <img height="35" width="35" align="left" alt="HTML" width="26px" src="icons/html5.svg" />
 
