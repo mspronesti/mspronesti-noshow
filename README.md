@@ -3,9 +3,9 @@
 <h1 align="center">Hi, I'm Massimiliano (but people call me Elle) 👋</h1>
 <h3 align="center">A passionate Computer Science Engineering student from Italy, currently in France </h3>
 
-- 🎓 I'm currently studying Computer Science Engineering (AI and Data Analytics) at Polytechnic University of Turin :it:
+- 🎓 I'm currently studying Computer Science Engineering at Polytechnic University of Turin :it:
 - ✈ I'm currently studying Data Science and Engineering at Institut EURECOM as part of a double degree program :fr:
-- 💻  I'm mainly interested in IoT, Data Science, Machine Learning and Software Engineering in general
+- 💻  I'm mainly interested in IoT, Data Science, Machine Learning and Software Engineering in general. Fond of the idea of bringing intelligence to physical system. 
 - 🌱 I'm currently learning Data Science
 - 👯 I’m looking to collaborate on any stimulating open source project
 - 💬 Ask me about anything, I'll gladly do my best to help
