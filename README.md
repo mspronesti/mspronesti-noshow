@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 ## Favourite Languages and Tools:
 <img height="35" width="35" align="left" alt="Linux" width="26px" src="icons/linux.svg" />
 
+<img height="35" width="35" align="left" alt="Python" width="26px" src="icons/python.svg" />
+
 <img height="35" width="35" align="left" alt="cplusplus" width="26px" src="icons/cpp.svg" />
 
 <img height="35" width="35" align="left" alt="C" width="26px" src="icons/c.svg" />
@@ -42,8 +44,6 @@ Here are some ideas to get you started:
 <img height="35" width="35" align="left" alt="Rust" width="26px" src="icons/rust.svg" />
 
 <img height="35" width="35" align="left" alt="Java" width="26px" src="icons/java.svg" />
-
-<img height="35" width="35" align="left" alt="Python" width="26px" src="icons/python.svg" />
 
 <img height="35" width="35" align="left" alt="bash" width="26px" src="icons/bash.svg" />
 
