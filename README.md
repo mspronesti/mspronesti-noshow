@@ -37,6 +37,14 @@ Here are some ideas to get you started:
 
 <img height="35" width="35" align="left" alt="Python" width="26px" src="icons/python.svg" />
 
+<img height="35" width="35" align="left" alt="Tensorflow" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png" />
+
+<img height="35" width="35" align="left" alt="PyTorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
+
+<img height="35" width="35" align="left" alt="PyTorch" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/668px-Matlab_Logo.png" />
+
+
+
 <img height="35" width="35" align="left" alt="cplusplus" width="26px" src="icons/cpp.svg" />
 
 <img height="35" width="35" align="left" alt="C" width="26px" src="icons/c.svg" />
