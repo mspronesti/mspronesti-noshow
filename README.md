@@ -5,7 +5,7 @@
 
 - 🎓 I'm currently studying Computer Science Engineering at Polytechnic University of Turin :it:
 - ✈ I'm currently studying Data Science and Engineering at Institut EURECOM as part of a double degree program :fr:
-- 💻  I'm mainly interested in IoT, Data Science, Machine Learning and Software Engineering in general. I'm also passionate about DIY projects. Fond of the idea of bringing intelligence to physical system. 
+- 💻  I'm mainly interested in  Data Science, Web Developement and IoT. I'm also passionate about HPC. Fond of the idea of bringing intelligence to physical system. 
 - 🌱 I'm currently learning Data Science
 - 👯 I’m looking to collaborate on any stimulating open source project
 - 💬 Ask me about anything, I'll gladly do my best to help
@@ -16,58 +16,111 @@
 [<img height="35" width="35" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/linkedin.svg" alt="lorcalhost | Linkedin" />][linkedin] &nbsp;
 
 
-<!--
-**PronElle/PronElle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 ## Favourite Languages and Tools:
-<img height="35" width="35" align="left" alt="Linux" width="26px" src="icons/linux.svg" />
 
-<img height="35" width="35" align="left" alt="Python" width="26px" src="icons/python.svg" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://angular.io" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://www.arduino.cc/" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>   </a> 
+  
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://firebase.google.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="60" height="40"/>
+  </a>
+  <a>
+    <img src="icons/html5.svg" height="40" width="40" alt="HTML" width="40px" height="40" />
+ </a>
+  
+  <a>
+     <img height="40" width="40" alt="CSS" width="26px" src="icons/css3.svg" />
+ </a>
+ 
+ <a>
+   <img height="40" width="40" alt="JavaScript" width="26px" src="icons/js.svg" />
+ </a>
 
-<img height="35" width="35" align="left" alt="Tensorflow" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png" />
 
-<img height="35" width="35" align="left" alt="PyTorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  
+   <a href="https://www.mongodb.com/" target="_blank">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  
+ <a href="https://nodejs.org" target="_blank"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+ </a> 
+  
+ <a href="https://www.postgresql.org" target="_blank"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://pytorch.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+  </a> 
+  <br />
+  <a href="https://scikit-learn.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://www.tensorflow.org" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a> 
+  
+  <a>
+   <img height="40" width="40" alt="MATLAB" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/668px-Matlab_Logo.png" />
+  </a>
+  
+  <a>
+    <img height="45" width="45" alt="Rust" src="icons/rust.svg" />
+  </a>  
+</p>
 
-<img height="35" width="35" align="left" alt="PyTorch" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/668px-Matlab_Logo.png" />
 
-
-
-<img height="35" width="35" align="left" alt="cplusplus" width="26px" src="icons/cpp.svg" />
-
-<img height="35" width="35" align="left" alt="C" width="26px" src="icons/c.svg" />
-
-<img height="35" width="35" align="left" alt="Rust" width="26px" src="icons/rust.svg" />
-
-<img height="35" width="35" align="left" alt="Java" width="26px" src="icons/java.svg" />
-
-<img height="35" width="35" align="left" alt="bash" width="26px" src="icons/bash.svg" />
-
-<img height="35" width="35" align="left" alt="Git" width="26px" src="icons/git.svg" />
-
-<img height="35" width="35" align="left" alt="Docker" width="26px" src="icons/docker.svg" />
-
-<img height="35" width="35" align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img height="35" width="35" align="left" alt="HTML" width="26px" src="icons/html5.svg" />
-
-<img height="35" width="35" align="left" alt="CSS" width="26px" src="icons/css3.svg" />
-
-<img height="35" width="35" align="left" alt="JavaScript" width="26px" src="icons/js.svg" />
-
-<br />
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
