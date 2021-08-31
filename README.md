@@ -1,25 +1,22 @@
-<h2 align="center"><img src="https://komarev.com/ghpvc/?username=PronElle&style=flat-square" alt="PronElle" /></h2>
+<h2 align="center"><img src="https://komarev.com/ghpvc/?username=mspronesti&style=flat-square" alt="mspronesti" /></h2>
 
 <h1 align="center">Hi, I'm Massimiliano (but people call me Elle) 👋</h1>
 <h3 align="center">A passionate Computer Science Engineering student from Italy, currently in France </h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+</p>
 
 - 🎓 I'm currently studying Computer Science Engineering at Polytechnic University of Turin :it:
 - ✈ I'm currently studying Data Science and Engineering at Institut EURECOM as part of a double degree program :fr:
-- 💻  I'm mainly interested in  Data Science, Web Developement and IoT. I'm also passionate about HPC. Fond of the idea of bringing intelligence to physical system. 
+- 💻  I'm mainly interested in  Data Science, High-performance computing and IoT. Fond of the idea of bringing intelligence to physical system. 
 - 🌱 I'm currently learning Data Science
-- 👯 I’m looking to collaborate on any stimulating open source project
-- 💬 Ask me about anything, I'll gladly do my best to help
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
-## Connect with me
-[<img height="35" width="35" src="https://raw.githubusercontent.com/lorcalhost/lorcalhost/master/icons/linkedin.svg" alt="lorcalhost | Linkedin" />][linkedin] &nbsp;
-
 
 
 ## Favourite Languages and Tools:
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> 
@@ -127,9 +124,9 @@
 
 ## Some of my stats:
 
-[![PronElle's GitHub stats](https://github-readme-stats-alpha-rust.vercel.app/api?username=PronElle&show_icons=true&hide_border=true&count_private=true&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1016)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
+[![mspronesti's GitHub stats](https://github-readme-stats-alpha-rust.vercel.app/api?username=mspronesti&show_icons=true&hide_border=true&count_private=true&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1016)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PronElle&layout=compact&langs_count=10&show_icons=true&hide_border=true&count_private=true&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1016)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mspronesti&layout=compact&langs_count=10&show_icons=true&hide_border=true&count_private=true&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1016)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
