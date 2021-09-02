@@ -117,17 +117,3 @@
   </a>  
 </p>
 
-
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
-
-## Some of my stats:
-
-[![mspronesti's GitHub stats](https://github-readme-stats-alpha-rust.vercel.app/api?username=mspronesti&show_icons=true&hide_border=true&count_private=true&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1016)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mspronesti&layout=compact&langs_count=10&show_icons=true&hide_border=true&count_private=true&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1016)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[Linkedin]: https://www.linkedin.com/in/massimilianopronesti/
