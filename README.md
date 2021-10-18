@@ -1,6 +1,6 @@
 <h2 align="center"><img src="https://komarev.com/ghpvc/?username=mspronesti&style=flat-square" alt="mspronesti" /></h2>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Massimiliano (but people call me Elle) </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Massimiliano (but people call me L) </h1>
 <h3 align="center">A passionate Computer Science Engineering student from Italy, currently in France </h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
@@ -8,7 +8,7 @@
 
 - 🎓 I'm currently studying Computer Science Engineering at Polytechnic University of Turin :it:
 - ✈ I'm currently studying Data Science and Engineering at Institut EURECOM as part of a double degree program :fr:
-- 💻  I'm mainly interested in  Data Science, High-performance computing and IoT. Fond of the idea of bringing intelligence to physical systems. 
+- 💻  I'm mainly interested in  Data Science, High-performance computing and IoT. Fond of the idea of bringing intelligence to physical systems. Lately getting passionate about Quantum computing.
 - 🌱 I'm currently learning Data Science
 
 
