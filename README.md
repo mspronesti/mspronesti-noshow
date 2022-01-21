@@ -1,6 +1,6 @@
 <h2 align="center"><img src="https://komarev.com/ghpvc/?username=mspronesti&style=flat-square" alt="mspronesti" /></h2>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Massimiliano (but people call me L) </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Massimiliano </h1>
 <h3 align="center">A passionate Computer Science Engineering student from Italy, currently in France </h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
@@ -8,7 +8,8 @@
 
 - 🎓 I'm currently studying Computer Science Engineering at Polytechnic University of Turin :it:
 - ✈ I'm currently studying Data Science and Engineering at Institut EURECOM as part of a double degree program :fr:
-- 💻  I'm mainly interested in  Data Science, High-performance computing and IoT. Fond of the idea of bringing intelligence to physical systems. Lately getting passionate about Quantum computing.
+- 💻  I'm mainly interested in Machine Learning, High-performance computing and Software Engineering. Lately got passionate about Quantum computing.
+- :penguin: Linux and open-source enthusiast
 - 🌱 I'm currently learning Data Science
 
 
@@ -18,12 +19,9 @@
 ## Favourite Languages and Tools:
 
 <p align="left"> 
-  <a href="https://angular.io" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.arduino.cc/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+    
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
   
   <a href="https://www.gnu.org/software/bash/" target="_blank"> 
@@ -35,6 +33,17 @@
   
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+      <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  
+   <a>
+   <img height="40" width="40" alt="qiskit" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" />
+  </a>
+  
+  <a href="https://scikit-learn.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
   </a> 
   
   <a href="https://www.docker.com/" target="_blank"> 
@@ -63,13 +72,16 @@
    <img height="40" width="40" alt="JavaScript" width="26px" src="icons/js.svg" />
  </a>
 
+  <a href="https://angular.io" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://www.arduino.cc/" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+  </a> 
 
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
   
    <a href="https://www.mongodb.com/" target="_blank">
@@ -88,16 +100,9 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a> 
   
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
   
   <a href="https://pytorch.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://scikit-learn.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
   </a> 
   
   <a href="https://www.tensorflow.org" target="_blank"> 
@@ -109,11 +114,13 @@
   </a> 
   
   <a>
-   <img height="40" width="40" alt="MATLAB" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/668px-Matlab_Logo.png" />
-  </a>
-  
-  <a>
     <img height="45" width="45" alt="Rust" src="icons/rust.svg" />
   </a>  
 </p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
 
