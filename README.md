@@ -123,4 +123,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#12](https://github.com/mspronesti/qlearnkit/pull/12) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
+2. 🎉 Merged PR [#11](https://github.com/mspronesti/qlkit/pull/11) in [mspronesti/qlkit](https://github.com/mspronesti/qlkit)
+3. 💪 Opened PR [#11](https://github.com/mspronesti/qlkit/pull/11) in [mspronesti/qlkit](https://github.com/mspronesti/qlkit)
+4. 🎉 Merged PR [#10](https://github.com/mspronesti/qlkit/pull/10) in [mspronesti/qlkit](https://github.com/mspronesti/qlkit)
+5. 💪 Opened PR [#10](https://github.com/mspronesti/qlkit/pull/10) in [mspronesti/qlkit](https://github.com/mspronesti/qlkit)
+<!--END_SECTION:activity-->
 
