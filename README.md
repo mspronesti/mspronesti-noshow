@@ -123,10 +123,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/mspronesti/mspronesti.github.io/pull/6) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
-2. 🎉 Merged PR [#4](https://github.com/mspronesti/mspronesti.github.io/pull/4) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
-3. 🎉 Merged PR [#3](https://github.com/mspronesti/mspronesti.github.io/pull/3) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
-4. 🎉 Merged PR [#13](https://github.com/mspronesti/qlearnkit/pull/13) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
-5. 💪 Opened PR [#13](https://github.com/mspronesti/qlearnkit/pull/13) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
+1. 🗣 Commented on [#35](https://github.com/soumyajit4419/Portfolio/issues/35) in [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio)
+2. ❗️ Opened issue [#46](https://github.com/soumyajit4419/Portfolio/issues/46) in [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio)
+3. 🎉 Merged PR [#6](https://github.com/mspronesti/mspronesti.github.io/pull/6) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
+4. 🎉 Merged PR [#4](https://github.com/mspronesti/mspronesti.github.io/pull/4) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
+5. 🎉 Merged PR [#3](https://github.com/mspronesti/mspronesti.github.io/pull/3) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
 <!--END_SECTION:activity-->
 
