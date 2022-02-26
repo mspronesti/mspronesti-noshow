@@ -123,10 +123,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#48](https://github.com/soumyajit4419/Portfolio/pull/48) in [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio)
-2. 💪 Opened PR [#47](https://github.com/soumyajit4419/Portfolio/pull/47) in [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio)
-3. 🗣 Commented on [#35](https://github.com/soumyajit4419/Portfolio/issues/35) in [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio)
-4. ❗️ Opened issue [#46](https://github.com/soumyajit4419/Portfolio/issues/46) in [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio)
-5. 🎉 Merged PR [#6](https://github.com/mspronesti/mspronesti.github.io/pull/6) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
+1. 🎉 Merged PR [#8](https://github.com/mspronesti/mspronesti.github.io/pull/8) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
+2. 💪 Opened PR [#48](https://github.com/soumyajit4419/Portfolio/pull/48) in [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio)
+3. 💪 Opened PR [#47](https://github.com/soumyajit4419/Portfolio/pull/47) in [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio)
+4. 🗣 Commented on [#35](https://github.com/soumyajit4419/Portfolio/issues/35) in [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio)
+5. ❗️ Opened issue [#46](https://github.com/soumyajit4419/Portfolio/issues/46) in [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio)
 <!--END_SECTION:activity-->
 
