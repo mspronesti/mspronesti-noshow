@@ -1,7 +1,14 @@
-<h2 align="center"><img src="https://komarev.com/ghpvc/?username=mspronesti&style=flat-square" alt="mspronesti" /></h2>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Massimiliano </h1>
 <h3 align="center">A passionate Computer Science Engineering student from Italy, currently in France </h3>
+
+<h2 align="center">
+  <img src="https://komarev.com/ghpvc/?username=mspronesti&style=square" alt="mspronesti" />
+  <a href="https://mspronesti.github.io/">
+    <img src="https://img.shields.io/badge/mspronesti.github.io-0078D4?style=for-the-badge&logo=Google-Chrome&logoColor=00AEFF&labelColor=grey&color=green&style=square">
+  </a>
+</h2>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 </p>
