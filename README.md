@@ -130,10 +130,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#9](https://github.com/mspronesti/mspronesti.github.io/pull/9) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
-2. ❌ Closed PR [#9](https://github.com/mspronesti/mspronesti.github.io/pull/9) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
-3. ❌ Reopened PR [#5](https://github.com/mspronesti/mspronesti.github.io/pull/5) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
-4. ❌ Closed PR [#5](https://github.com/mspronesti/mspronesti.github.io/pull/5) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
-5. ❌ Reopened PR [#5](https://github.com/mspronesti/mspronesti.github.io/pull/5) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
+1. 🎉 Merged PR [#14](https://github.com/mspronesti/mspronesti.github.io/pull/14) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
+2. 🎉 Merged PR [#15](https://github.com/mspronesti/mspronesti.github.io/pull/15) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
+3. 🎉 Merged PR [#10](https://github.com/mspronesti/mspronesti.github.io/pull/10) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
+4. ❌ Reopened PR [#10](https://github.com/mspronesti/mspronesti.github.io/pull/10) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
+5. ❌ Closed PR [#10](https://github.com/mspronesti/mspronesti.github.io/pull/10) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
 <!--END_SECTION:activity-->
 
