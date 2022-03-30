@@ -130,10 +130,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/mspronesti/mspronesti.github.io/pull/26) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
-2. 🎉 Merged PR [#25](https://github.com/mspronesti/mspronesti.github.io/pull/25) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
-3. 💪 Opened PR [#52](https://github.com/soumyajit4419/Portfolio/pull/52) in [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio)
-4. ❗️ Opened issue [#51](https://github.com/soumyajit4419/Portfolio/issues/51) in [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio)
-5. 🎉 Merged PR [#22](https://github.com/mspronesti/mspronesti.github.io/pull/22) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
+1. 🎉 Merged PR [#28](https://github.com/mspronesti/mspronesti.github.io/pull/28) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
+2. 🎉 Merged PR [#26](https://github.com/mspronesti/mspronesti.github.io/pull/26) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
+3. 🎉 Merged PR [#25](https://github.com/mspronesti/mspronesti.github.io/pull/25) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
+4. 💪 Opened PR [#52](https://github.com/soumyajit4419/Portfolio/pull/52) in [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio)
+5. ❗️ Opened issue [#51](https://github.com/soumyajit4419/Portfolio/issues/51) in [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio)
 <!--END_SECTION:activity-->
 
