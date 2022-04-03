@@ -130,10 +130,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Eug9/XJoin/pull/2) in [Eug9/XJoin](https://github.com/Eug9/XJoin)
-2. ❗️ Opened issue [#808](https://github.com/IntelPython/dpctl/issues/808) in [IntelPython/dpctl](https://github.com/IntelPython/dpctl)
-3. 🎉 Merged PR [#28](https://github.com/mspronesti/mspronesti.github.io/pull/28) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
-4. 🎉 Merged PR [#26](https://github.com/mspronesti/mspronesti.github.io/pull/26) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
-5. 🎉 Merged PR [#25](https://github.com/mspronesti/mspronesti.github.io/pull/25) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
+1. 🎉 Merged PR [#27](https://github.com/mspronesti/mspronesti.github.io/pull/27) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
+2. 💪 Opened PR [#14](https://github.com/mspronesti/qlearnkit/pull/14) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
+3. 💪 Opened PR [#2](https://github.com/Eug9/XJoin/pull/2) in [Eug9/XJoin](https://github.com/Eug9/XJoin)
+4. ❗️ Opened issue [#808](https://github.com/IntelPython/dpctl/issues/808) in [IntelPython/dpctl](https://github.com/IntelPython/dpctl)
+5. 🎉 Merged PR [#28](https://github.com/mspronesti/mspronesti.github.io/pull/28) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
 <!--END_SECTION:activity-->
 
