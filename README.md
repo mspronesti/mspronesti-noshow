@@ -128,10 +128,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/mspronesti/mspronesti.github.io/pull/33) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
-2. 🎉 Merged PR [#27](https://github.com/mspronesti/mspronesti.github.io/pull/27) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
-3. 💪 Opened PR [#14](https://github.com/mspronesti/qlearnkit/pull/14) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
-4. 💪 Opened PR [#2](https://github.com/Eug9/XJoin/pull/2) in [Eug9/XJoin](https://github.com/Eug9/XJoin)
-5. ❗️ Opened issue [#808](https://github.com/IntelPython/dpctl/issues/808) in [IntelPython/dpctl](https://github.com/IntelPython/dpctl)
+1. 🎉 Merged PR [#32](https://github.com/mspronesti/mspronesti.github.io/pull/32) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
+2. 🎉 Merged PR [#14](https://github.com/mspronesti/qlearnkit/pull/14) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
+3. 🎉 Merged PR [#33](https://github.com/mspronesti/mspronesti.github.io/pull/33) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
+4. 🎉 Merged PR [#27](https://github.com/mspronesti/mspronesti.github.io/pull/27) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
+5. 💪 Opened PR [#14](https://github.com/mspronesti/qlearnkit/pull/14) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
 <!--END_SECTION:activity-->
 
