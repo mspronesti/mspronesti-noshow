@@ -39,11 +39,16 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
-      <a href="https://www.python.org" target="_blank"> 
+  
+  <a>
+    <img src="https://thewizardsgame.com/wp-content/uploads/2018/04/Nvidia_logo.png" height="40" width="40"/>
+  </a>
+  
+  <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   
-   <a>
+  <a>
    <img height="40" width="40" alt="qiskit" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" />
   </a>
   
@@ -112,10 +117,6 @@
   
   <a href="https://www.tensorflow.org" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
   
   <a>
