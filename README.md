@@ -129,10 +129,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/mspronesti/mspronesti.github.io/pull/32) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
-2. 🎉 Merged PR [#14](https://github.com/mspronesti/qlearnkit/pull/14) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
-3. 🎉 Merged PR [#33](https://github.com/mspronesti/mspronesti.github.io/pull/33) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
-4. 🎉 Merged PR [#27](https://github.com/mspronesti/mspronesti.github.io/pull/27) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
-5. 💪 Opened PR [#14](https://github.com/mspronesti/qlearnkit/pull/14) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
+1. 🎉 Merged PR [#58](https://github.com/mspronesti/mspronesti.github.io/pull/58) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
+2. 🎉 Merged PR [#57](https://github.com/mspronesti/mspronesti.github.io/pull/57) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
+3. 🎉 Merged PR [#32](https://github.com/mspronesti/mspronesti.github.io/pull/32) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
+4. 🎉 Merged PR [#14](https://github.com/mspronesti/qlearnkit/pull/14) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
+5. 🎉 Merged PR [#33](https://github.com/mspronesti/mspronesti.github.io/pull/33) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
 <!--END_SECTION:activity-->
 
