@@ -9,6 +9,7 @@
   </a>
 </h2>
 
+<!-- <img src='https://github.com/demartini/demartini/blob/master/code.gif' /> -->
 
 - 🎓 I'm currently studying Computer Science Engineering at Polytechnic University of Turin :it:
 - ✈ I'm currently studying Data Science and Engineering at Institut EURECOM as part of a double degree program :fr:
@@ -127,7 +128,7 @@
 
 ## Spotify Playing 🎧
 
-[![Spotify](https://novatorem-nu-umber.vercel.app/api/spotify)](https://open.spotify.com/user/1169233185)
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)]()
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
