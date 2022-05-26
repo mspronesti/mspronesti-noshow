@@ -9,7 +9,6 @@
   </a>
 </h2>
 
-<img align="right" height='200px' width='300px' src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 
 - 🎓 I'm currently studying Computer Science Engineering at Polytechnic University of Turin :it:
 - ✈ I'm currently studying Data Science and Engineering at Institut EURECOM as part of a double degree program :fr:
@@ -123,6 +122,12 @@
     <img height="45" width="45" alt="Rust" src="icons/rust.svg" />
   </a>  
 </p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+## Spotify Playing 🎧
+
+[![Spotify](https://novatorem-nu-umber.vercel.app/api/spotify)](https://open.spotify.com/user/1169233185)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
