@@ -4,9 +4,6 @@
 
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=mspronesti&style=square" alt="mspronesti" />
-  <a href="https://mspronesti.github.io/">
-    <img src="https://img.shields.io/badge/mspronesti.github.io-0078D4?style=for-the-badge&logo=Google-Chrome&logoColor=00AEFF&labelColor=grey&color=green&style=square">
-  </a>
 </h2>
 
 <!-- <img src='https://github.com/demartini/demartini/blob/master/code.gif' /> -->
@@ -21,6 +18,11 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
+## Connect with me:
+
+[<img height="35" width="35" src="https://raw.githubusercontent.com/mspronesti/mspronesti/master/icons/website.svg" alt="mspronesti | Website" />][website] &nbsp;
+[<img height="35" width="35" src="https://raw.githubusercontent.com/mspronesti/mspronesti/master/icons/linkedin.svg" alt="mspronesti | Linkedin" />][linkedin] &nbsp;
+[<img height="35" width="35" src="https://raw.githubusercontent.com/mspronesti/mspronesti/master/icons/instagram.svg" alt="mspronesti | Instagram" />][instagram] &nbsp;
 
 ## Favourite Languages and Tools:
 
@@ -142,4 +144,9 @@
 4. 🎉 Merged PR [#15](https://github.com/mspronesti/qlearnkit/pull/15) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
 5. 🎉 Merged PR [#2](https://github.com/mspronesti/federated/pull/2) in [mspronesti/federated](https://github.com/mspronesti/federated)
 <!--END_SECTION:activity-->
+
+
+[website]: https://mspronesti.github.io
+[instagram]: https://instagram.com/__mpronesti
+[linkedin]: https://www.linkedin.com/in/massimiliano-pronesti/
 
