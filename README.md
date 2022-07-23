@@ -63,6 +63,18 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
   
+ <a href="https://hadoop.apache.org/" target="_blank"> 
+    <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/hadoop/hadoop.svg" alt="hadoop" width="40" height="40"/> 
+  </a> 
+  
+ <a href="https://spark.apache.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="40"/> 
+  </a> 
+
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  
   <a href="https://firebase.google.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a> 
@@ -84,18 +96,6 @@
  <a>
    <img height="40" width="40" alt="JavaScript" width="26px" src="icons/js.svg" />
  </a>
-
-  <a href="https://angular.io" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.arduino.cc/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
   
    <a href="https://www.mongodb.com/" target="_blank">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
