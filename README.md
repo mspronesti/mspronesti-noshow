@@ -138,11 +138,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#28](https://github.com/CQCL/lambeq/issues/28) in [CQCL/lambeq](https://github.com/CQCL/lambeq)
-2. 🎉 Merged PR [#68](https://github.com/mspronesti/mspronesti.github.io/pull/68) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
-3. 🎉 Merged PR [#70](https://github.com/mspronesti/mspronesti.github.io/pull/70) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
-4. 🎉 Merged PR [#16](https://github.com/mspronesti/mspronesti.github.io/pull/16) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
-5. 🎉 Merged PR [#15](https://github.com/mspronesti/qlearnkit/pull/15) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
+1. 🗣 Commented on [#33](https://github.com/Scinawa/quantumalgorithms.org/issues/33) in [Scinawa/quantumalgorithms.org](https://github.com/Scinawa/quantumalgorithms.org)
+2. ❗️ Opened issue [#28](https://github.com/CQCL/lambeq/issues/28) in [CQCL/lambeq](https://github.com/CQCL/lambeq)
+3. 🎉 Merged PR [#68](https://github.com/mspronesti/mspronesti.github.io/pull/68) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
+4. 🎉 Merged PR [#70](https://github.com/mspronesti/mspronesti.github.io/pull/70) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
+5. 🎉 Merged PR [#16](https://github.com/mspronesti/mspronesti.github.io/pull/16) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
 <!--END_SECTION:activity-->
 
 
