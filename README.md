@@ -11,7 +11,7 @@
 - 🧑‍💼 Intern at Amadeus IT Group, Nice
 - 🎓 Studying Computer Science Engineering at Polytechnic University of Turin :it:
 - ✈  Studying Data Science and Engineering at Institut EURECOM as part of a double degree program :fr:
-- 💻  Mainly interested in Machine Learning, High-performance computing and Software Engineering. Lately got passionate about Quantum computing.
+- 💻  Mainly interested in Machine Learning, High-performance computing and Data Engineering. Lately got passionate about Quantum computing.
 - :penguin: Linux and open-source enthusiast
 - 🌱 Learning new tech every day
 
