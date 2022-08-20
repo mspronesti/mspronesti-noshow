@@ -140,9 +140,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#41](https://github.com/CQCL/lambeq/issues/41) in [CQCL/lambeq](https://github.com/CQCL/lambeq)
 2. 🗣 Commented on [#41](https://github.com/CQCL/lambeq/issues/41) in [CQCL/lambeq](https://github.com/CQCL/lambeq)
-3. 🎉 Merged PR [#80](https://github.com/mspronesti/mspronesti.github.io/pull/80) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
-4. 🎉 Merged PR [#62](https://github.com/mspronesti/mspronesti.github.io/pull/62) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
-5. ❗️ Opened issue [#1](https://github.com/helloerikaaa/quweeting/issues/1) in [helloerikaaa/quweeting](https://github.com/helloerikaaa/quweeting)
+3. 🗣 Commented on [#41](https://github.com/CQCL/lambeq/issues/41) in [CQCL/lambeq](https://github.com/CQCL/lambeq)
+4. 🗣 Commented on [#41](https://github.com/CQCL/lambeq/issues/41) in [CQCL/lambeq](https://github.com/CQCL/lambeq)
+5. 🎉 Merged PR [#80](https://github.com/mspronesti/mspronesti.github.io/pull/80) in [mspronesti/mspronesti.github.io](https://github.com/mspronesti/mspronesti.github.io)
 <!--END_SECTION:activity-->
 
 
