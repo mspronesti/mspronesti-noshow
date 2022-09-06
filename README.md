@@ -131,7 +131,7 @@
 
 ## Spotify Playing 🎧
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)]()
+[![Spotify](https://novatorem-nu-umber.vercel.app/api/spotify)]()
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
