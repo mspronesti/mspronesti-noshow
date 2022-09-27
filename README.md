@@ -138,10 +138,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#92](https://github.com/oxford-quantum-group/discopy/issues/92) in [oxford-quantum-group/discopy](https://github.com/oxford-quantum-group/discopy)
+1. ❗️ Opened issue [#16](https://github.com/mspronesti/qlearnkit/issues/16) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
 2. 🗣 Commented on [#92](https://github.com/oxford-quantum-group/discopy/issues/92) in [oxford-quantum-group/discopy](https://github.com/oxford-quantum-group/discopy)
-3. ❗️ Opened issue [#92](https://github.com/oxford-quantum-group/discopy/issues/92) in [oxford-quantum-group/discopy](https://github.com/oxford-quantum-group/discopy)
-4. 🗣 Commented on [#41](https://github.com/CQCL/lambeq/issues/41) in [CQCL/lambeq](https://github.com/CQCL/lambeq)
+3. 🗣 Commented on [#92](https://github.com/oxford-quantum-group/discopy/issues/92) in [oxford-quantum-group/discopy](https://github.com/oxford-quantum-group/discopy)
+4. ❗️ Opened issue [#92](https://github.com/oxford-quantum-group/discopy/issues/92) in [oxford-quantum-group/discopy](https://github.com/oxford-quantum-group/discopy)
 5. 🗣 Commented on [#41](https://github.com/CQCL/lambeq/issues/41) in [CQCL/lambeq](https://github.com/CQCL/lambeq)
 <!--END_SECTION:activity-->
 
