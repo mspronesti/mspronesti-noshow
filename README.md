@@ -11,7 +11,7 @@
 - 🧑‍💼 Intern at Amadeus IT Group, Nice
 - 🎓 Studying Computer Science Engineering at Polytechnic University of Turin :it:
 - ✈  Studying Data Science and Engineering at Institut EURECOM as part of a double degree program :fr:
-- 💻  Mainly interested in Machine Learning, High-performance computing and Data Engineering. Lately got passionate about Quantum computing.
+- 💻  Mainly interested in Machine Learning, High-performance computing and Data Engineering. Lately got passionate about Quantum AI.
 - :penguin: Linux and open-source enthusiast
 - 🌱 Learning [go](https://go.dev) 🦫 in my spare time
 
@@ -122,8 +122,8 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
   
-  <a>
-    <img height="45" width="45" alt="Rust" src="icons/rust.svg" />
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img height="40" width="40" alt="Rust" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" />
   </a>  
 </p>
 
