@@ -138,11 +138,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#16](https://github.com/mspronesti/qlearnkit/issues/16) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
-2. 🎉 Merged PR [#17](https://github.com/mspronesti/qlearnkit/pull/17) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
-3. 💪 Opened PR [#17](https://github.com/mspronesti/qlearnkit/pull/17) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
-4. ❗️ Opened issue [#16](https://github.com/mspronesti/qlearnkit/issues/16) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
-5. 🗣 Commented on [#92](https://github.com/oxford-quantum-group/discopy/issues/92) in [oxford-quantum-group/discopy](https://github.com/oxford-quantum-group/discopy)
+1. ❗️ Opened issue [#1](https://github.com/mspronesti/SYCL-containers/issues/1) in [mspronesti/SYCL-containers](https://github.com/mspronesti/SYCL-containers)
+2. ❗️ Closed issue [#16](https://github.com/mspronesti/qlearnkit/issues/16) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
+3. 🎉 Merged PR [#17](https://github.com/mspronesti/qlearnkit/pull/17) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
+4. 💪 Opened PR [#17](https://github.com/mspronesti/qlearnkit/pull/17) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
+5. ❗️ Opened issue [#16](https://github.com/mspronesti/qlearnkit/issues/16) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
 <!--END_SECTION:activity-->
 
 
