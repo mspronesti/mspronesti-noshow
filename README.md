@@ -138,11 +138,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/kjsman/stable-diffusion-pytorch/pull/1) in [kjsman/stable-diffusion-pytorch](https://github.com/kjsman/stable-diffusion-pytorch)
-2. ❗️ Opened issue [#19](https://github.com/mspronesti/qlearnkit/issues/19) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
-3. ❗️ Opened issue [#18](https://github.com/mspronesti/qlearnkit/issues/18) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
-4. 🗣 Commented on [#303](https://github.com/jupyter/nbformat/issues/303) in [jupyter/nbformat](https://github.com/jupyter/nbformat)
-5. 💪 Opened PR [#5](https://github.com/slowy07/luna/pull/5) in [slowy07/luna](https://github.com/slowy07/luna)
+1. 💪 Opened PR [#2](https://github.com/kjsman/stable-diffusion-pytorch/pull/2) in [kjsman/stable-diffusion-pytorch](https://github.com/kjsman/stable-diffusion-pytorch)
+2. 🗣 Commented on [#1](https://github.com/kjsman/stable-diffusion-pytorch/issues/1) in [kjsman/stable-diffusion-pytorch](https://github.com/kjsman/stable-diffusion-pytorch)
+3. 💪 Opened PR [#1](https://github.com/kjsman/stable-diffusion-pytorch/pull/1) in [kjsman/stable-diffusion-pytorch](https://github.com/kjsman/stable-diffusion-pytorch)
+4. ❗️ Opened issue [#19](https://github.com/mspronesti/qlearnkit/issues/19) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
+5. ❗️ Opened issue [#18](https://github.com/mspronesti/qlearnkit/issues/18) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
 <!--END_SECTION:activity-->
 
 
