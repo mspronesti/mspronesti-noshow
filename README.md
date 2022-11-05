@@ -138,11 +138,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/kjsman/stable-diffusion-pytorch/pull/2) in [kjsman/stable-diffusion-pytorch](https://github.com/kjsman/stable-diffusion-pytorch)
-2. 🗣 Commented on [#1](https://github.com/kjsman/stable-diffusion-pytorch/issues/1) in [kjsman/stable-diffusion-pytorch](https://github.com/kjsman/stable-diffusion-pytorch)
-3. 💪 Opened PR [#1](https://github.com/kjsman/stable-diffusion-pytorch/pull/1) in [kjsman/stable-diffusion-pytorch](https://github.com/kjsman/stable-diffusion-pytorch)
-4. ❗️ Opened issue [#19](https://github.com/mspronesti/qlearnkit/issues/19) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
-5. ❗️ Opened issue [#18](https://github.com/mspronesti/qlearnkit/issues/18) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
+1. ❗️ Opened issue [#3](https://github.com/kjsman/stable-diffusion-pytorch/issues/3) in [kjsman/stable-diffusion-pytorch](https://github.com/kjsman/stable-diffusion-pytorch)
+2. 💪 Opened PR [#2](https://github.com/kjsman/stable-diffusion-pytorch/pull/2) in [kjsman/stable-diffusion-pytorch](https://github.com/kjsman/stable-diffusion-pytorch)
+3. 🗣 Commented on [#1](https://github.com/kjsman/stable-diffusion-pytorch/issues/1) in [kjsman/stable-diffusion-pytorch](https://github.com/kjsman/stable-diffusion-pytorch)
+4. 💪 Opened PR [#1](https://github.com/kjsman/stable-diffusion-pytorch/pull/1) in [kjsman/stable-diffusion-pytorch](https://github.com/kjsman/stable-diffusion-pytorch)
+5. ❗️ Opened issue [#19](https://github.com/mspronesti/qlearnkit/issues/19) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
 <!--END_SECTION:activity-->
 
 
