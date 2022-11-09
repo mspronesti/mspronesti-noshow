@@ -138,11 +138,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/LaurentMazare/diffusers-rs/issues/4) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
-2. ❗️ Opened issue [#3](https://github.com/kjsman/stable-diffusion-pytorch/issues/3) in [kjsman/stable-diffusion-pytorch](https://github.com/kjsman/stable-diffusion-pytorch)
-3. 💪 Opened PR [#2](https://github.com/kjsman/stable-diffusion-pytorch/pull/2) in [kjsman/stable-diffusion-pytorch](https://github.com/kjsman/stable-diffusion-pytorch)
-4. 🗣 Commented on [#1](https://github.com/kjsman/stable-diffusion-pytorch/issues/1) in [kjsman/stable-diffusion-pytorch](https://github.com/kjsman/stable-diffusion-pytorch)
-5. 💪 Opened PR [#1](https://github.com/kjsman/stable-diffusion-pytorch/pull/1) in [kjsman/stable-diffusion-pytorch](https://github.com/kjsman/stable-diffusion-pytorch)
+1. 🗣 Commented on [#4](https://github.com/LaurentMazare/diffusers-rs/issues/4) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
+2. 💪 Opened PR [#4](https://github.com/kjsman/stable-diffusion-pytorch/pull/4) in [kjsman/stable-diffusion-pytorch](https://github.com/kjsman/stable-diffusion-pytorch)
+3. ❗️ Opened issue [#4](https://github.com/LaurentMazare/diffusers-rs/issues/4) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
+4. ❗️ Opened issue [#3](https://github.com/kjsman/stable-diffusion-pytorch/issues/3) in [kjsman/stable-diffusion-pytorch](https://github.com/kjsman/stable-diffusion-pytorch)
+5. 💪 Opened PR [#2](https://github.com/kjsman/stable-diffusion-pytorch/pull/2) in [kjsman/stable-diffusion-pytorch](https://github.com/kjsman/stable-diffusion-pytorch)
 <!--END_SECTION:activity-->
 
 
