@@ -13,7 +13,6 @@
 - ✈  Studying Data Science and Engineering at Institut EURECOM as part of a double degree program :fr:
 - 💻  Mainly interested in Machine Learning, High-performance computing and Data Engineering. Lately got passionate about Quantum AI.
 - :penguin: Linux and open-source enthusiast
-- 🌱 Learning [go](https://go.dev) 🦫 in my spare time
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
