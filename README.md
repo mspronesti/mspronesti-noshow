@@ -137,11 +137,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/LaurentMazare/diffusers-rs/pull/9) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
-2. 🗣 Commented on [#4](https://github.com/LaurentMazare/diffusers-rs/issues/4) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
-3. 💪 Opened PR [#4](https://github.com/kjsman/stable-diffusion-pytorch/pull/4) in [kjsman/stable-diffusion-pytorch](https://github.com/kjsman/stable-diffusion-pytorch)
-4. ❗️ Opened issue [#4](https://github.com/LaurentMazare/diffusers-rs/issues/4) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
-5. ❗️ Opened issue [#3](https://github.com/kjsman/stable-diffusion-pytorch/issues/3) in [kjsman/stable-diffusion-pytorch](https://github.com/kjsman/stable-diffusion-pytorch)
+1. ❗️ Opened issue [#20](https://github.com/mspronesti/qlearnkit/issues/20) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
+2. 💪 Opened PR [#9](https://github.com/LaurentMazare/diffusers-rs/pull/9) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
+3. 🗣 Commented on [#4](https://github.com/LaurentMazare/diffusers-rs/issues/4) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
+4. 💪 Opened PR [#4](https://github.com/kjsman/stable-diffusion-pytorch/pull/4) in [kjsman/stable-diffusion-pytorch](https://github.com/kjsman/stable-diffusion-pytorch)
+5. ❗️ Opened issue [#4](https://github.com/LaurentMazare/diffusers-rs/issues/4) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
 <!--END_SECTION:activity-->
 
 
