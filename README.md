@@ -17,13 +17,13 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-## Connect with me:
+## Connect with me
 
 [<img height="35" width="35" src="https://raw.githubusercontent.com/mspronesti/mspronesti/master/icons/website.svg" alt="mspronesti | Website" />][website] &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/mspronesti/mspronesti/master/icons/linkedin.svg" alt="mspronesti | Linkedin" />][linkedin] &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/mspronesti/mspronesti/master/icons/instagram.svg" alt="mspronesti | Instagram" />][instagram] &nbsp;
 
-## Favourite Languages and Tools:
+## Favourite Languages and Tools
 
 <p align="left"> 
     
