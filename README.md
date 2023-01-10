@@ -138,10 +138,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#34](https://github.com/LaurentMazare/diffusers-rs/issues/34) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
-2. 🗣 Commented on [#34](https://github.com/LaurentMazare/diffusers-rs/issues/34) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
+2. 🗣 Commented on [#36](https://github.com/LaurentMazare/diffusers-rs/issues/36) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
 3. 🗣 Commented on [#34](https://github.com/LaurentMazare/diffusers-rs/issues/34) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
-4. 🗣 Commented on [#32](https://github.com/LaurentMazare/diffusers-rs/issues/32) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
-5. 🗣 Commented on [#32](https://github.com/LaurentMazare/diffusers-rs/issues/32) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
+4. 🗣 Commented on [#34](https://github.com/LaurentMazare/diffusers-rs/issues/34) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
+5. 🗣 Commented on [#34](https://github.com/LaurentMazare/diffusers-rs/issues/34) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
 <!--END_SECTION:activity-->
 
 
