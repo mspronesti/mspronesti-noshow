@@ -137,11 +137,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/LaurentMazare/diffusers-rs/issues/37) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
-2. 💪 Opened PR [#37](https://github.com/LaurentMazare/diffusers-rs/pull/37) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
-3. 🗣 Commented on [#34](https://github.com/LaurentMazare/diffusers-rs/issues/34) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
-4. 🗣 Commented on [#36](https://github.com/LaurentMazare/diffusers-rs/issues/36) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
-5. 🗣 Commented on [#34](https://github.com/LaurentMazare/diffusers-rs/issues/34) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
+1. 💪 Opened PR [#38](https://github.com/LaurentMazare/diffusers-rs/pull/38) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
+2. 🗣 Commented on [#37](https://github.com/LaurentMazare/diffusers-rs/issues/37) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
+3. 💪 Opened PR [#37](https://github.com/LaurentMazare/diffusers-rs/pull/37) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
+4. 🗣 Commented on [#34](https://github.com/LaurentMazare/diffusers-rs/issues/34) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
+5. 🗣 Commented on [#36](https://github.com/LaurentMazare/diffusers-rs/issues/36) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
 <!--END_SECTION:activity-->
 
 
