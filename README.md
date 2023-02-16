@@ -9,7 +9,7 @@
 <!-- <img src='https://github.com/demartini/demartini/blob/master/code.gif' /> -->
 
 - 🧑‍💼 Intern at Amadeus IT Group, Nice
-- 🎓 Studying Computer Science Engineering at Polytechnic University of Turin :it:
+- 🎓 Studying Computer Science Engineering at Politecnico di Torino :it:
 - ✈  Studying Data Science and Engineering at Institut EURECOM as part of a double degree program :fr:
 - 💻  Mainly interested in Machine Learning, High-performance computing and Big Data Engineering. Lately got passionate about Quantum Software.
 - :penguin: Linux and open-source enthusiast
