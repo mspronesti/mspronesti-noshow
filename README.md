@@ -21,7 +21,6 @@
 
 [<img height="35" width="35" src="https://raw.githubusercontent.com/mspronesti/mspronesti/master/icons/website.svg" alt="mspronesti | Website" />][website] &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/mspronesti/mspronesti/master/icons/linkedin.svg" alt="mspronesti | Linkedin" />][linkedin] &nbsp;
-[<img height="35" width="35" src="https://raw.githubusercontent.com/mspronesti/mspronesti/master/icons/instagram.svg" alt="mspronesti | Instagram" />][instagram] &nbsp;
 
 ## Favourite Languages and Tools
 
