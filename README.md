@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px">, I'm Massimiliano </h1>
-<h3 align="center">A passionate Computer Science Engineering student from Italy, currently in France </h3>
+<h3 align="center">A passionate Computer Science Engineer from Italy, currently in France </h3>
 
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=mspronesti&style=square" alt="mspronesti" />
