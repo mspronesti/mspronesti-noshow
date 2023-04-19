@@ -145,11 +145,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/gmpetrov/openai-chatgpt/issues/7) in [gmpetrov/openai-chatgpt](https://github.com/gmpetrov/openai-chatgpt)
-2. 💪 Opened PR [#57](https://github.com/LaurentMazare/diffusers-rs/pull/57) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
-3. 🗣 Commented on [#52](https://github.com/LaurentMazare/diffusers-rs/issues/52) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
-4. 🗣 Commented on [#52](https://github.com/LaurentMazare/diffusers-rs/issues/52) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
-5. 💪 Opened PR [#52](https://github.com/LaurentMazare/diffusers-rs/pull/52) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
+1. 🎉 Merged PR [#21](https://github.com/mspronesti/qlearnkit/pull/21) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
+2. 💪 Opened PR [#21](https://github.com/mspronesti/qlearnkit/pull/21) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
+3. ❗️ Opened issue [#7](https://github.com/gmpetrov/openai-chatgpt/issues/7) in [gmpetrov/openai-chatgpt](https://github.com/gmpetrov/openai-chatgpt)
+4. 💪 Opened PR [#57](https://github.com/LaurentMazare/diffusers-rs/pull/57) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
+5. 🗣 Commented on [#52](https://github.com/LaurentMazare/diffusers-rs/issues/52) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
 <!--END_SECTION:activity-->
 
 
