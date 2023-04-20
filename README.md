@@ -136,11 +136,6 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-## Spotify Playing 🎧
-
-[![Spotify](https://novatorem-nu-umber.vercel.app/api/spotify)]()
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ### :zap: Recent Activity
 
