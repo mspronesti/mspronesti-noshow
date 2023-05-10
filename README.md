@@ -140,11 +140,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/mspronesti/qlearnkit/pull/23) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
-2. ❗️ Closed issue [#18](https://github.com/mspronesti/qlearnkit/issues/18) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
-3. 🎉 Merged PR [#22](https://github.com/mspronesti/qlearnkit/pull/22) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
-4. 💪 Opened PR [#22](https://github.com/mspronesti/qlearnkit/pull/22) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
-5. 🎉 Merged PR [#21](https://github.com/mspronesti/qlearnkit/pull/21) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
+1. 🎉 Merged PR [#23](https://github.com/mspronesti/qlearnkit/pull/23) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
+2. 💪 Opened PR [#23](https://github.com/mspronesti/qlearnkit/pull/23) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
+3. ❗️ Closed issue [#18](https://github.com/mspronesti/qlearnkit/issues/18) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
+4. 🎉 Merged PR [#22](https://github.com/mspronesti/qlearnkit/pull/22) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
+5. 💪 Opened PR [#22](https://github.com/mspronesti/qlearnkit/pull/22) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
 <!--END_SECTION:activity-->
 
 
