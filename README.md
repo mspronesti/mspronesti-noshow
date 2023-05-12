@@ -140,11 +140,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/mspronesti/qlearnkit/pull/23) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
-2. 💪 Opened PR [#23](https://github.com/mspronesti/qlearnkit/pull/23) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
-3. ❗️ Closed issue [#18](https://github.com/mspronesti/qlearnkit/issues/18) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
-4. 🎉 Merged PR [#22](https://github.com/mspronesti/qlearnkit/pull/22) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
-5. 💪 Opened PR [#22](https://github.com/mspronesti/qlearnkit/pull/22) in [mspronesti/qlearnkit](https://github.com/mspronesti/qlearnkit)
+1. ❗️ Closed issue [#447](https://github.com/openai/openai-python/issues/447) in [openai/openai-python](https://github.com/openai/openai-python)
+2. 🗣 Commented on [#447](https://github.com/openai/openai-python/issues/447) in [openai/openai-python](https://github.com/openai/openai-python)
+3. 🗣 Commented on [#115](https://github.com/gventuri/pandas-ai/issues/115) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
+4. 🗣 Commented on [#115](https://github.com/gventuri/pandas-ai/issues/115) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
+5. 🗣 Commented on [#115](https://github.com/gventuri/pandas-ai/issues/115) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
 <!--END_SECTION:activity-->
 
 
