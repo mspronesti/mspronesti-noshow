@@ -141,10 +141,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#115](https://github.com/gventuri/pandas-ai/issues/115) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
-2. 🗣 Commented on [#115](https://github.com/gventuri/pandas-ai/issues/115) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
-3. ❗️ Closed issue [#447](https://github.com/openai/openai-python/issues/447) in [openai/openai-python](https://github.com/openai/openai-python)
-4. 🗣 Commented on [#447](https://github.com/openai/openai-python/issues/447) in [openai/openai-python](https://github.com/openai/openai-python)
-5. 🗣 Commented on [#115](https://github.com/gventuri/pandas-ai/issues/115) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
+2. 💪 Opened PR [#62](https://github.com/LaurentMazare/diffusers-rs/pull/62) in [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs)
+3. 🗣 Commented on [#115](https://github.com/gventuri/pandas-ai/issues/115) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
+4. 🗣 Commented on [#115](https://github.com/gventuri/pandas-ai/issues/115) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
+5. ❗️ Closed issue [#447](https://github.com/openai/openai-python/issues/447) in [openai/openai-python](https://github.com/openai/openai-python)
 <!--END_SECTION:activity-->
 
 
