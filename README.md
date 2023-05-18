@@ -140,8 +140,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#96](https://github.com/gventuri/pandas-ai/issues/96) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
-2. 🗣 Commented on [#115](https://github.com/gventuri/pandas-ai/issues/115) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
+1. 💪 Opened PR [#141](https://github.com/gventuri/pandas-ai/pull/141) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
+2. 🗣 Commented on [#96](https://github.com/gventuri/pandas-ai/issues/96) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
 3. 🗣 Commented on [#115](https://github.com/gventuri/pandas-ai/issues/115) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
 4. 🗣 Commented on [#115](https://github.com/gventuri/pandas-ai/issues/115) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
 5. 🗣 Commented on [#115](https://github.com/gventuri/pandas-ai/issues/115) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
