@@ -143,8 +143,8 @@
 1. 🗣 Commented on [#237](https://github.com/gventuri/pandas-ai/issues/237) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
 2. 🗣 Commented on [#239](https://github.com/gventuri/pandas-ai/issues/239) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
 3. 🗣 Commented on [#237](https://github.com/gventuri/pandas-ai/issues/237) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
-4. 💪 Opened PR [#237](https://github.com/gventuri/pandas-ai/pull/237) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
-5. 🗣 Commented on [#207](https://github.com/gventuri/pandas-ai/issues/207) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
+4. 🗣 Commented on [#239](https://github.com/gventuri/pandas-ai/issues/239) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
+5. 🗣 Commented on [#237](https://github.com/gventuri/pandas-ai/issues/237) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
 <!--END_SECTION:activity-->
 
 
