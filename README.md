@@ -140,10 +140,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#218](https://github.com/vllm-project/vllm/issues/218) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
-2. 🗣 Commented on [#479](https://github.com/huggingface/text-generation-inference/issues/479) in [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference)
-3. 💪 Opened PR [#306](https://github.com/gventuri/pandas-ai/pull/306) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
-4. 🗣 Commented on [#452](https://github.com/huggingface/text-generation-inference/issues/452) in [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference)
+1. 🗣 Commented on [#309](https://github.com/gventuri/pandas-ai/issues/309) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
+2. ❗ Opened issue [#218](https://github.com/vllm-project/vllm/issues/218) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+3. 🗣 Commented on [#479](https://github.com/huggingface/text-generation-inference/issues/479) in [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference)
+4. 💪 Opened PR [#306](https://github.com/gventuri/pandas-ai/pull/306) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
 5. 🗣 Commented on [#452](https://github.com/huggingface/text-generation-inference/issues/452) in [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference)
 <!--END_SECTION:activity-->
 
