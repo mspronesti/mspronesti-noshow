@@ -4,6 +4,7 @@
 
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=mspronesti&style=square" alt="mspronesti" />
+  <img src="https://img.shields.io/github/followers/mspronesti.svg?style=social&label=Follow" alt="Emulator000" />
 </h2>
 
 <!-- <img src='https://github.com/demartini/demartini/blob/master/code.gif' /> -->
@@ -22,7 +23,7 @@
 [<img height="35" width="35" src="https://raw.githubusercontent.com/mspronesti/mspronesti/master/icons/website.svg" alt="mspronesti | Website" />][website] &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/mspronesti/mspronesti/master/icons/linkedin.svg" alt="mspronesti | Linkedin" />][linkedin] &nbsp;
 
-## Favourite Languages and Tools
+## Favourite Languages and Tools 
 
 <p align="left"> 
     
