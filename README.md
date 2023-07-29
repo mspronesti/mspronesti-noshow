@@ -23,7 +23,7 @@
 [<img height="35" width="35" src="https://raw.githubusercontent.com/mspronesti/mspronesti/master/icons/website.svg" alt="mspronesti | Website" />][website] &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/mspronesti/mspronesti/master/icons/linkedin.svg" alt="mspronesti | Linkedin" />][linkedin] &nbsp;
 
-## Favourite Languages and Tools 
+## Favourite Languages, Frameworks and Tools 
 
 <p align="left"> 
     
