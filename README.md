@@ -13,7 +13,7 @@
 - 🎓 M.Sc. Computer Science Engineering at Politecnico di Torino :it:
 - ✈  M.Sc. Data Science and Engineering at Institut Eurecom as part of a double degree program :fr:
 - 💻  Mainly interested in Machine Learning, High-performance Computing (HPC), Big Data Engineering and Quantum Software.
-- :penguin: Linux and open-source enthusiast
+- :penguin: Linux and Open-source enthusiast
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
