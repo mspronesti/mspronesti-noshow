@@ -12,7 +12,7 @@
 - 🧑‍💼 Machine Learning Engineer at Amadeus
 - 🎓 M.Sc. Computer Science Engineering at Politecnico di Torino :it:
 - ✈  M.Sc. Data Science and Engineering at Institut Eurecom as part of a double degree program :fr:
-- 💻  Mainly interested in Machine Learning, High-performance Computing (HPC), Big Data Engineering and Quantum Software.
+- 💻  Mainly interested in Deep Learning (specifically Generative AI), High-performance Computing (HPC) and Distributed Systems.
 - :penguin: Linux and Open-source enthusiast
 
 
