@@ -50,10 +50,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   
-  <a>
-   <img height="40" width="40" alt="qiskit" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" />
-  </a>
-  
   <a href="https://scikit-learn.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
   </a> 
