@@ -137,11 +137,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#573](https://github.com/gventuri/pandas-ai/issues/573#issuecomment-1724551296) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
-2. 🗣 Commented on [#801](https://github.com/vllm-project/vllm/issues/801#issuecomment-1723319336) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
-3. 💪 Opened PR [#10707](https://github.com/langchain-ai/langchain/pull/10707) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-4. ❌ Closed PR [#10706](https://github.com/langchain-ai/langchain/pull/10706) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-5. 💪 Opened PR [#10706](https://github.com/langchain-ai/langchain/pull/10706) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+1. 🗣 Commented on [#573](https://github.com/gventuri/pandas-ai/issues/573#issuecomment-1725447864) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
+2. 🗣 Commented on [#4575](https://github.com/langchain-ai/langchain/issues/4575#issuecomment-1725320436) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+3. 🗣 Commented on [#573](https://github.com/gventuri/pandas-ai/issues/573#issuecomment-1725051448) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
+4. 🗣 Commented on [#573](https://github.com/gventuri/pandas-ai/issues/573#issuecomment-1724551296) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
+5. 🗣 Commented on [#801](https://github.com/vllm-project/vllm/issues/801#issuecomment-1723319336) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
 <!--END_SECTION:activity-->
 
 
