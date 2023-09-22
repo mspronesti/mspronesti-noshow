@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px">, I'm Massimiliano </h1>
+<h1 align="center">Hi 👋, I'm Massimiliano </h1>
 <h3 align="center">A passionate Machine Learning Engineer from Italy, currently in France </h3>
 
 <h2 align="center">
