@@ -137,11 +137,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#645](https://github.com/gventuri/pandas-ai/issues/645#issuecomment-1763012069) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
-2. 🗣 Commented on [#636](https://github.com/gventuri/pandas-ai/pull/636#issuecomment-1761735627) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
-3. 🗣 Commented on [#636](https://github.com/gventuri/pandas-ai/pull/636#issuecomment-1759477830) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
-4. 🗣 Commented on [#636](https://github.com/gventuri/pandas-ai/pull/636#issuecomment-1759248783) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
-5. 💪 Opened PR [#636](https://github.com/gventuri/pandas-ai/pull/636) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
+1. 💪 Opened PR [#652](https://github.com/gventuri/pandas-ai/pull/652) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
+2. 🗣 Commented on [#645](https://github.com/gventuri/pandas-ai/issues/645#issuecomment-1763012069) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
+3. 🗣 Commented on [#636](https://github.com/gventuri/pandas-ai/pull/636#issuecomment-1761735627) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
+4. 🗣 Commented on [#636](https://github.com/gventuri/pandas-ai/pull/636#issuecomment-1759477830) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
+5. 🗣 Commented on [#636](https://github.com/gventuri/pandas-ai/pull/636#issuecomment-1759248783) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
 <!--END_SECTION:activity-->
 
 
