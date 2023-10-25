@@ -137,11 +137,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#657](https://github.com/gventuri/pandas-ai/issues/657#issuecomment-1771727380) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
-2. ❗ Opened issue [#657](https://github.com/gventuri/pandas-ai/issues/657) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
-3. ❗ Opened issue [#17](https://github.com/huggingface/text-embeddings-inference/issues/17) in [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference)
-4. 💪 Opened PR [#652](https://github.com/gventuri/pandas-ai/pull/652) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
-5. 🗣 Commented on [#645](https://github.com/gventuri/pandas-ai/issues/645#issuecomment-1763012069) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
+1. 💪 Opened PR [#682](https://github.com/gventuri/pandas-ai/pull/682) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
+2. 🗣 Commented on [#657](https://github.com/gventuri/pandas-ai/issues/657#issuecomment-1771727380) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
+3. ❗ Opened issue [#657](https://github.com/gventuri/pandas-ai/issues/657) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
+4. ❗ Opened issue [#17](https://github.com/huggingface/text-embeddings-inference/issues/17) in [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference)
+5. 💪 Opened PR [#652](https://github.com/gventuri/pandas-ai/pull/652) in [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)
 <!--END_SECTION:activity-->
 
 
