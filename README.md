@@ -137,11 +137,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14406](https://github.com/langchain-ai/langchain/pull/14406) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-2. 💪 Opened PR [#14288](https://github.com/langchain-ai/langchain/pull/14288) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-3. ❗ Opened issue [#14226](https://github.com/langchain-ai/langchain/issues/14226) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-4. 🗣 Commented on [#14018](https://github.com/langchain-ai/langchain/issues/14018#issuecomment-1837144072) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-5. 🗣 Commented on [#1875](https://github.com/vllm-project/vllm/issues/1875#issuecomment-1837135379) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+1. 🗣 Commented on [#14377](https://github.com/langchain-ai/langchain/issues/14377#issuecomment-1847698296) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+2. 💪 Opened PR [#14406](https://github.com/langchain-ai/langchain/pull/14406) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+3. 💪 Opened PR [#14288](https://github.com/langchain-ai/langchain/pull/14288) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+4. ❗ Opened issue [#14226](https://github.com/langchain-ai/langchain/issues/14226) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+5. 🗣 Commented on [#14018](https://github.com/langchain-ai/langchain/issues/14018#issuecomment-1837144072) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
 <!--END_SECTION:activity-->
 
 
