@@ -137,11 +137,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2820](https://github.com/vllm-project/vllm/pull/2820) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
-2. 🗣 Commented on [#16785](https://github.com/langchain-ai/langchain/pull/16785#issuecomment-1933113587) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-3. 💪 Opened PR [#2736](https://github.com/vllm-project/vllm/pull/2736) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
-4. 🗣 Commented on [#16010](https://github.com/langchain-ai/langchain/pull/16010#issuecomment-1924783813) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-5. 💪 Opened PR [#16950](https://github.com/langchain-ai/langchain/pull/16950) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+1. 💪 Opened PR [#17349](https://github.com/langchain-ai/langchain/pull/17349) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+2. 🗣 Commented on [#16747](https://github.com/langchain-ai/langchain/pull/16747#issuecomment-1936381847) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+3. 💪 Opened PR [#2820](https://github.com/vllm-project/vllm/pull/2820) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+4. 🗣 Commented on [#16785](https://github.com/langchain-ai/langchain/pull/16785#issuecomment-1933113587) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+5. 💪 Opened PR [#2736](https://github.com/vllm-project/vllm/pull/2736) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
 <!--END_SECTION:activity-->
 
 
