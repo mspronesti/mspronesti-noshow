@@ -137,11 +137,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#962](https://github.com/Sinaptik-AI/pandas-ai/issues/962#issuecomment-1965487978) in [Sinaptik-AI/pandas-ai](https://github.com/Sinaptik-AI/pandas-ai)
-2. 💪 Opened PR [#963](https://github.com/Sinaptik-AI/pandas-ai/pull/963) in [Sinaptik-AI/pandas-ai](https://github.com/Sinaptik-AI/pandas-ai)
-3. 🗣 Commented on [#18005](https://github.com/langchain-ai/langchain/pull/18005#issuecomment-1965480253) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-4. 🗣 Commented on [#962](https://github.com/Sinaptik-AI/pandas-ai/issues/962#issuecomment-1965459096) in [Sinaptik-AI/pandas-ai](https://github.com/Sinaptik-AI/pandas-ai)
-5. 🗣 Commented on [#962](https://github.com/Sinaptik-AI/pandas-ai/issues/962#issuecomment-1965322801) in [Sinaptik-AI/pandas-ai](https://github.com/Sinaptik-AI/pandas-ai)
+1. 💪 Opened PR [#670](https://github.com/explodinggradients/ragas/pull/670) in [explodinggradients/ragas](https://github.com/explodinggradients/ragas)
+2. 🗣 Commented on [#962](https://github.com/Sinaptik-AI/pandas-ai/issues/962#issuecomment-1965487978) in [Sinaptik-AI/pandas-ai](https://github.com/Sinaptik-AI/pandas-ai)
+3. 💪 Opened PR [#963](https://github.com/Sinaptik-AI/pandas-ai/pull/963) in [Sinaptik-AI/pandas-ai](https://github.com/Sinaptik-AI/pandas-ai)
+4. 🗣 Commented on [#18005](https://github.com/langchain-ai/langchain/pull/18005#issuecomment-1965480253) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+5. 🗣 Commented on [#962](https://github.com/Sinaptik-AI/pandas-ai/issues/962#issuecomment-1965459096) in [Sinaptik-AI/pandas-ai](https://github.com/Sinaptik-AI/pandas-ai)
 <!--END_SECTION:activity-->
 
 
