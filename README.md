@@ -137,11 +137,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19641](https://github.com/langchain-ai/langchain/pull/19641) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-2. 🗣 Commented on [#19486](https://github.com/langchain-ai/langchain/pull/19486#issuecomment-2018346174) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-3. 🗣 Commented on [#19346](https://github.com/langchain-ai/langchain/pull/19346#issuecomment-2011766345) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-4. 🗣 Commented on [#4559](https://github.com/gradio-app/gradio/issues/4559#issuecomment-2003328187) in [gradio-app/gradio](https://github.com/gradio-app/gradio)
-5. 🗣 Commented on [#670](https://github.com/explodinggradients/ragas/pull/670#issuecomment-1991414911) in [explodinggradients/ragas](https://github.com/explodinggradients/ragas)
+1. 🗣 Commented on [#19346](https://github.com/langchain-ai/langchain/pull/19346#issuecomment-2025643454) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+2. 🗣 Commented on [#795](https://github.com/explodinggradients/ragas/pull/795#issuecomment-2025558496) in [explodinggradients/ragas](https://github.com/explodinggradients/ragas)
+3. 💪 Opened PR [#19641](https://github.com/langchain-ai/langchain/pull/19641) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+4. 🗣 Commented on [#19486](https://github.com/langchain-ai/langchain/pull/19486#issuecomment-2018346174) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+5. 🗣 Commented on [#19346](https://github.com/langchain-ai/langchain/pull/19346#issuecomment-2011766345) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
 <!--END_SECTION:activity-->
 
 
