@@ -137,11 +137,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1075](https://github.com/Sinaptik-AI/pandas-ai/pull/1075) in [Sinaptik-AI/pandas-ai](https://github.com/Sinaptik-AI/pandas-ai)
-2. 🗣 Commented on [#19346](https://github.com/langchain-ai/langchain/pull/19346#issuecomment-2025643454) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-3. 🗣 Commented on [#795](https://github.com/explodinggradients/ragas/pull/795#issuecomment-2025558496) in [explodinggradients/ragas](https://github.com/explodinggradients/ragas)
-4. 💪 Opened PR [#19641](https://github.com/langchain-ai/langchain/pull/19641) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-5. 🗣 Commented on [#19486](https://github.com/langchain-ai/langchain/pull/19486#issuecomment-2018346174) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+1. 🗣 Commented on [#19641](https://github.com/langchain-ai/langchain/pull/19641#issuecomment-2030463037) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+2. 💪 Opened PR [#1075](https://github.com/Sinaptik-AI/pandas-ai/pull/1075) in [Sinaptik-AI/pandas-ai](https://github.com/Sinaptik-AI/pandas-ai)
+3. 🗣 Commented on [#19346](https://github.com/langchain-ai/langchain/pull/19346#issuecomment-2025643454) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+4. 🗣 Commented on [#795](https://github.com/explodinggradients/ragas/pull/795#issuecomment-2025558496) in [explodinggradients/ragas](https://github.com/explodinggradients/ragas)
+5. 💪 Opened PR [#19641](https://github.com/langchain-ai/langchain/pull/19641) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
 <!--END_SECTION:activity-->
 
 
