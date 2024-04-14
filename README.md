@@ -137,11 +137,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#182](https://github.com/princeton-nlp/SWE-agent/pull/182#issuecomment-2049795621) in [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent)
-2. ❌ Closed PR [#182](https://github.com/princeton-nlp/SWE-agent/pull/182) in [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent)
-3. 💪 Opened PR [#182](https://github.com/princeton-nlp/SWE-agent/pull/182) in [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent)
-4. 🗣 Commented on [#19641](https://github.com/langchain-ai/langchain/pull/19641#issuecomment-2030463037) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-5. 💪 Opened PR [#1075](https://github.com/Sinaptik-AI/pandas-ai/pull/1075) in [Sinaptik-AI/pandas-ai](https://github.com/Sinaptik-AI/pandas-ai)
+1. 💪 Opened PR [#216](https://github.com/princeton-nlp/SWE-agent/pull/216) in [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent)
+2. ❗ Opened issue [#1313](https://github.com/openai/openai-python/issues/1313) in [openai/openai-python](https://github.com/openai/openai-python)
+3. 🗣 Commented on [#182](https://github.com/princeton-nlp/SWE-agent/pull/182#issuecomment-2049795621) in [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent)
+4. ❌ Closed PR [#182](https://github.com/princeton-nlp/SWE-agent/pull/182) in [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent)
+5. 💪 Opened PR [#182](https://github.com/princeton-nlp/SWE-agent/pull/182) in [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent)
 <!--END_SECTION:activity-->
 
 
