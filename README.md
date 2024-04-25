@@ -137,11 +137,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1121](https://github.com/Sinaptik-AI/pandas-ai/pull/1121#issuecomment-2066950766) in [Sinaptik-AI/pandas-ai](https://github.com/Sinaptik-AI/pandas-ai)
-2. 💪 Opened PR [#20601](https://github.com/langchain-ai/langchain/pull/20601) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-3. ❗ Opened issue [#20600](https://github.com/langchain-ai/langchain/issues/20600) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-4. 💪 Opened PR [#249](https://github.com/princeton-nlp/SWE-agent/pull/249) in [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent)
-5. 🗣 Commented on [#245](https://github.com/princeton-nlp/SWE-agent/issues/245#issuecomment-2061621546) in [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent)
+1. 🗣 Commented on [#20852](https://github.com/langchain-ai/langchain/pull/20852#issuecomment-2075874764) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+2. 🗣 Commented on [#20852](https://github.com/langchain-ai/langchain/pull/20852#issuecomment-2075843352) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+3. 🗣 Commented on [#20852](https://github.com/langchain-ai/langchain/pull/20852#issuecomment-2075719977) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+4. 🗣 Commented on [#20600](https://github.com/langchain-ai/langchain/issues/20600#issuecomment-2075651286) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+5. 💪 Opened PR [#20852](https://github.com/langchain-ai/langchain/pull/20852) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
 <!--END_SECTION:activity-->
 
 
