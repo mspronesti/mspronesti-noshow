@@ -137,10 +137,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23713](https://github.com/langchain-ai/langchain/issues/23713#issuecomment-2227317532) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-2. 🗣 Commented on [#21572](https://github.com/langchain-ai/langchain/pull/21572#issuecomment-2116274910) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-3. 🗣 Commented on [#20600](https://github.com/langchain-ai/langchain/issues/20600#issuecomment-2112907447) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-4. 🗣 Commented on [#21572](https://github.com/langchain-ai/langchain/pull/21572#issuecomment-2111038464) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+1. ❗ Opened issue [#24324](https://github.com/langchain-ai/langchain/issues/24324) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+2. 🗣 Commented on [#23713](https://github.com/langchain-ai/langchain/issues/23713#issuecomment-2227317532) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+3. 🗣 Commented on [#21572](https://github.com/langchain-ai/langchain/pull/21572#issuecomment-2116274910) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+4. 🗣 Commented on [#20600](https://github.com/langchain-ai/langchain/issues/20600#issuecomment-2112907447) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
 5. 🗣 Commented on [#21527](https://github.com/langchain-ai/langchain/pull/21527#issuecomment-2108204575) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
 <!--END_SECTION:activity-->
 
