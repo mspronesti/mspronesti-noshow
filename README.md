@@ -137,11 +137,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#16](https://github.com/serpapi/serpapi-python/issues/16) in [serpapi/serpapi-python](https://github.com/serpapi/serpapi-python)
-2. 💪 Opened PR [#716](https://github.com/karpathy/llm.c/pull/716) in [karpathy/llm.c](https://github.com/karpathy/llm.c)
-3. 💪 Opened PR [#713](https://github.com/karpathy/llm.c/pull/713) in [karpathy/llm.c](https://github.com/karpathy/llm.c)
-4. ❗ Opened issue [#24324](https://github.com/langchain-ai/langchain/issues/24324) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-5. 🗣 Commented on [#23713](https://github.com/langchain-ai/langchain/issues/23713#issuecomment-2227317532) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+1. 🗣 Commented on [#16](https://github.com/serpapi/serpapi-python/issues/16#issuecomment-2309794622) in [serpapi/serpapi-python](https://github.com/serpapi/serpapi-python)
+2. ❗ Opened issue [#16](https://github.com/serpapi/serpapi-python/issues/16) in [serpapi/serpapi-python](https://github.com/serpapi/serpapi-python)
+3. 💪 Opened PR [#716](https://github.com/karpathy/llm.c/pull/716) in [karpathy/llm.c](https://github.com/karpathy/llm.c)
+4. 💪 Opened PR [#713](https://github.com/karpathy/llm.c/pull/713) in [karpathy/llm.c](https://github.com/karpathy/llm.c)
+5. ❗ Opened issue [#24324](https://github.com/langchain-ai/langchain/issues/24324) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
 <!--END_SECTION:activity-->
 
 
