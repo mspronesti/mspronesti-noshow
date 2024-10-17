@@ -137,11 +137,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6507](https://github.com/HumanSignal/label-studio/issues/6507) in [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)
-2. ❗ Opened issue [#6516](https://github.com/HumanSignal/label-studio/issues/6516) in [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)
-3. ❗ Opened issue [#6507](https://github.com/HumanSignal/label-studio/issues/6507) in [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)
-4. 🗣 Commented on [#574](https://github.com/psf/requests-html/pull/574#issuecomment-2340389055) in [psf/requests-html](https://github.com/psf/requests-html)
-5. 🗣 Commented on [#16](https://github.com/serpapi/serpapi-python/issues/16#issuecomment-2309794622) in [serpapi/serpapi-python](https://github.com/serpapi/serpapi-python)
+1. 🗣 Commented on [#4122](https://github.com/HumanSignal/label-studio/issues/4122#issuecomment-2416302928) in [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)
+2. 🔒 Closed issue [#6507](https://github.com/HumanSignal/label-studio/issues/6507) in [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)
+3. ❗ Opened issue [#6516](https://github.com/HumanSignal/label-studio/issues/6516) in [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)
+4. ❗ Opened issue [#6507](https://github.com/HumanSignal/label-studio/issues/6507) in [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)
+5. 🗣 Commented on [#574](https://github.com/psf/requests-html/pull/574#issuecomment-2340389055) in [psf/requests-html](https://github.com/psf/requests-html)
 <!--END_SECTION:activity-->
 
 
