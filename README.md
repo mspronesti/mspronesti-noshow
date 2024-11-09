@@ -137,11 +137,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27898](https://github.com/langchain-ai/langchain/pull/27898#issuecomment-2461084358) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-2. 💪 Opened PR [#27898](https://github.com/langchain-ai/langchain/pull/27898) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-3. ❗ Opened issue [#6557](https://github.com/HumanSignal/label-studio/issues/6557) in [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)
-4. 🗣 Commented on [#6516](https://github.com/HumanSignal/label-studio/issues/6516#issuecomment-2417777542) in [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)
-5. 🗣 Commented on [#4122](https://github.com/HumanSignal/label-studio/issues/4122#issuecomment-2416302928) in [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)
+1. 🗣 Commented on [#21307](https://github.com/langchain-ai/langchain/pull/21307#issuecomment-2462751618) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+2. ❌ Closed PR [#21307](https://github.com/langchain-ai/langchain/pull/21307) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+3. 🗣 Commented on [#27898](https://github.com/langchain-ai/langchain/pull/27898#issuecomment-2461084358) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+4. 💪 Opened PR [#27898](https://github.com/langchain-ai/langchain/pull/27898) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+5. ❗ Opened issue [#6557](https://github.com/HumanSignal/label-studio/issues/6557) in [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)
 <!--END_SECTION:activity-->
 
 
