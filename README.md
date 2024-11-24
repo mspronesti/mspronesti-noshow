@@ -137,11 +137,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28123](https://github.com/langchain-ai/langchain/pull/28123#issuecomment-2492189287) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-2. 🗣 Commented on [#28123](https://github.com/langchain-ai/langchain/pull/28123#issuecomment-2483596518) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-3. 🗣 Commented on [#28123](https://github.com/langchain-ai/langchain/pull/28123#issuecomment-2480855904) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-4. 💪 Opened PR [#28123](https://github.com/langchain-ai/langchain/pull/28123) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-5. 🗣 Commented on [#21307](https://github.com/langchain-ai/langchain/pull/21307#issuecomment-2462751618) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+1. 💪 Opened PR [#28290](https://github.com/langchain-ai/langchain/pull/28290) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+2. 🗣 Commented on [#28123](https://github.com/langchain-ai/langchain/pull/28123#issuecomment-2492189287) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+3. 🗣 Commented on [#28123](https://github.com/langchain-ai/langchain/pull/28123#issuecomment-2483596518) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+4. 🗣 Commented on [#28123](https://github.com/langchain-ai/langchain/pull/28123#issuecomment-2480855904) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+5. 💪 Opened PR [#28123](https://github.com/langchain-ai/langchain/pull/28123) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
 <!--END_SECTION:activity-->
 
 
