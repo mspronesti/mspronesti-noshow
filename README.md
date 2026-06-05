@@ -137,7 +137,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/IBM/FactReasoner/pull/23) in [IBM/FactReasoner](https://github.com/IBM/FactReasoner)
+1. 🎉 Merged PR [#23](https://github.com/IBM/FactReasoner/pull/23) in [IBM/FactReasoner](https://github.com/IBM/FactReasoner)
 2. 🗣 Commented on [#28123](https://github.com/langchain-ai/langchain/pull/28123#issuecomment-2542073654) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
 3. 🗣 Commented on [#28123](https://github.com/langchain-ai/langchain/pull/28123#issuecomment-2527604743) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
 4. 🗣 Commented on [#28123](https://github.com/langchain-ai/langchain/pull/28123#issuecomment-2527568417) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
